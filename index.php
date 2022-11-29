@@ -28,6 +28,7 @@ function	db()
 	$var.= 			debug_backtrace()[0]['line'];
 	$var.=				'</p><hr>\');</script>';
 	
+	/** whitespace eliminator used to get rid of whitespace so that javascript script can echo properly **/
 	echo Wse2($var);
 }
 
