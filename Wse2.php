@@ -1,5 +1,6 @@
 <?php
 
+/** "Wse2" is short for "Whitespace Eliminator Version 2". **/ 
 Function Wse2($var)
 {
 	
