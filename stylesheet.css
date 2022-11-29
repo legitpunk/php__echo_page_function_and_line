@@ -1,0 +1,36 @@
+p{
+	margin-block-start: 0em;
+    margin-block-end: 0em;
+}
+.console_array{
+	color:deepskyblue;
+	display:inline-block;
+}
+.console_array_left_square_bracket_symbol, .console_array_right_square_bracket_symbol{
+	color:fuchsia;
+	display:inline-block;
+}
+.console_array_equals_symbol, .console_array_right_anglular_bracket_symbol{
+	color:fuchsia;
+	display:inline-block;
+}
+.console_array_indexes{
+	color:dodgerblue;
+	display:inline-block;
+}
+.console_scriptname{
+	color:green;
+	display:inline-block;
+}
+.console_function{
+	color:dodgerblue;
+	display:inline-block;
+}
+.console_line{
+	color:purple;
+	display:inline-block;
+}
+.console_semicolon{
+	color:deepskyblue;
+	display:inline-block;
+}
